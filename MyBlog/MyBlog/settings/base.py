@@ -28,6 +28,7 @@ SECRET_KEY = 'django-insecure-r-2p7lm13-x$573-^if4%6kf7pt_)^ys5=%r6i3sf$5@htzv3z
 # Application definition
 
 INSTALLED_APPS = [
+    'blog',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
