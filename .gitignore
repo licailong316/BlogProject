@@ -29,3 +29,9 @@ desktop.ini
 # Git相关
 *.swp
 *.swo
+
+# uwsgi
+uwsgi.ini
+
+
+
